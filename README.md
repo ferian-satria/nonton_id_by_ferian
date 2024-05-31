@@ -1,6 +1,8 @@
-# nonton_id_by_ferian
+# Movie Ticket Booking App
 
-A new Flutter project.
+The development of this project refers to following management projects:
+1. Product Requirement Document (PRD) https://docs.google.com/document/d/1-oe28lhQPrpPLMS3UsaAmkwxMu6PRRU7pOfv_u9xIhk/edit
+2. UI on Figma https://www.figma.com/design/27nGFXT8TktwBbo7ydZYog/Final-Project---Movie-Ticket-Booking-App-(Copy)?node-id=0-1&t=Nug2pSMnqJeqQSwE-0
 
 ## Getting Started
 
